@@ -1,1 +1,1 @@
-# Next-Era-Analytics
+Next Era Analytics transforms business strategy by giving executives, investors, and entrepreneurs a clear vision of their company’s future. Our AI engine runs scenario-based forecasting, adjusting for market trends, competitor activity, and internal growth strategies. Users can tweak variables—like hiring speed, R&D investment, or expansion plans—to see how different choices will shape their company over time.
